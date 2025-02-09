@@ -1,0 +1,14 @@
+***Environment Setup***
+
+npx create-react-app ./
+code .
+npm i web-vitals
+npm install react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+npm install react-icons --save
+npm i bootstrap@4.6.0
+npm i @testing-library/jest-dom
+npm i @testing-library/react
+npm i @testing-library/user-event

@@ -1,0 +1,8 @@
+avatar image link change
+product view and upload link remove from sidebar
+replace ORDER WITH PROJECT MANAGMENT > inside this Raw Material List Page > add table in page // same as products 
+
+
+Not working 
+
+update delete of all pages
